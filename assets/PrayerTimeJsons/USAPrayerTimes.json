@@ -1,0 +1,56 @@
+{     
+      
+"SanJose": {
+      "ICBAB": {
+            "FAJR": [
+                  "tst"
+            ],
+            "DHUHR": [
+                  "1:30"
+            ],
+            "ASR": [
+                  "6:30"
+            ],
+            "MAGHRIB": [
+                  "8:34"
+            ],
+            "ISHA": [
+                  "10:10"
+            ]
+      },
+      "MCA": {
+            "FAJR": [
+                  "Test"
+            ],
+            "DHUHR": [
+                  "Test"
+            ],
+            "ASR": [
+                  "TEST"
+            ],
+            "MAGHRIB": [
+                  "TEST"
+            ],
+            "ISHA": [
+                  "TEST"
+            ]
+      },
+      "SBIA": {
+            "FAJR": [
+                  "5:05"
+            ],
+            "DHUHR": [
+                  "1:30"
+            ],
+            "ASR": [
+                  "6:30"
+            ],
+            "MAGHRIB": [
+                  "8:34"
+            ],
+            "ISHA": [
+                  "10:10"
+            ]
+      }
+}
+}
