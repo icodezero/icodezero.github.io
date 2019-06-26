@@ -1,56 +1,479 @@
 {     
-      
-"SanJose": {
+      "SanJose": {
       "ICBAB": {
-            "FAJR": [
-                  "tst"
-            ],
-            "DHUHR": [
-                  "1:30"
-            ],
-            "ASR": [
-                  "6:30"
-            ],
-            "MAGHRIB": [
-                  "8:34"
-            ],
-            "ISHA": [
-                  "10:10"
-            ]
+      "FAJR": [
+      "tst"
+      ],
+      "DHUHR": [
+      "1:30"
+      ],
+      "ASR": [
+      "6:30"
+      ],
+      "MAGHRIB": [
+      "8:34"
+      ],
+      "ISHA": [
+      "10:10"
+      ]
       },
       "MCA": {
-            "FAJR": [
-                  "Test"
-            ],
-            "DHUHR": [
-                  "Test"
-            ],
-            "ASR": [
-                  "TEST"
-            ],
-            "MAGHRIB": [
-                  "TEST"
-            ],
-            "ISHA": [
-                  "TEST"
-            ]
+      "FAJR": [
+      "Test"
+      ],
+      "DHUHR": [
+      "Test"
+      ],
+      "ASR": [
+      "TEST"
+      ],
+      "MAGHRIB": [
+      "TEST"
+      ],
+      "ISHA": [
+      "TEST"
+      ]
       },
       "SBIA": {
-            "FAJR": [
-                  "5:05"
-            ],
-            "DHUHR": [
-                  "1:30"
-            ],
-            "ASR": [
-                  "6:30"
-            ],
-            "MAGHRIB": [
-                  "8:34"
-            ],
-            "ISHA": [
-                  "10:10"
-            ]
+      "FAJR": [
+      "5:05"
+      ],
+      "DHUHR": [
+      "1:30"
+      ],
+      "ASR": [
+      "6:30"
+      ],
+      "MAGHRIB": [
+      "8:34"
+      ],
+      "ISHA": [
+      "10:10"
+      ]
       }
-}
+      },
+      "SantaClara": {
+      "ICBAB": {
+      "FAJR": [
+      "tst"
+      ],
+      "DHUHR": [
+      "1:30"
+      ],
+      "ASR": [
+      "6:30"
+      ],
+      "MAGHRIB": [
+      "8:34"
+      ],
+      "ISHA": [
+      "10:10"
+      ]
+      },
+      "MCA": {
+      "FAJR": [
+      "Test"
+      ],
+      "DHUHR": [
+      "Test"
+      ],
+      "ASR": [
+      "TEST"
+      ],
+      "MAGHRIB": [
+      "TEST"
+      ],
+      "ISHA": [
+      "TEST"
+      ]
+      },
+      "SBIA": {
+      "FAJR": [
+      "5:05"
+      ],
+      "DHUHR": [
+      "1:30"
+      ],
+      "ASR": [
+      "6:30"
+      ],
+      "MAGHRIB": [
+      "8:34"
+      ],
+      "ISHA": [
+      "10:10"
+      ]
+      }
+      },
+      "Milpitas": {
+      "ICBAB": {
+      "FAJR": [
+      "tst"
+      ],
+      "DHUHR": [
+      "1:30"
+      ],
+      "ASR": [
+      "6:30"
+      ],
+      "MAGHRIB": [
+      "8:34"
+      ],
+      "ISHA": [
+      "10:10"
+      ]
+      },
+      "MCA": {
+      "FAJR": [
+      "Test"
+      ],
+      "DHUHR": [
+      "Test"
+      ],
+      "ASR": [
+      "TEST"
+      ],
+      "MAGHRIB": [
+      "TEST"
+      ],
+      "ISHA": [
+      "TEST"
+      ]
+      },
+      "SBIA": {
+      "FAJR": [
+      "5:05"
+      ],
+      "DHUHR": [
+      "1:30"
+      ],
+      "ASR": [
+      "6:30"
+      ],
+      "MAGHRIB": [
+      "8:34"
+      ],
+      "ISHA": [
+      "10:10"
+      ]
+      }
+      },
+      "Sunnyvale": {
+      "ICBAB": {
+      "FAJR": [
+      "tst"
+      ],
+      "DHUHR": [
+      "1:30"
+      ],
+      "ASR": [
+      "6:30"
+      ],
+      "MAGHRIB": [
+      "8:34"
+      ],
+      "ISHA": [
+      "10:10"
+      ]
+      },
+      "MCA": {
+      "FAJR": [
+      "Test"
+      ],
+      "DHUHR": [
+      "Test"
+      ],
+      "ASR": [
+      "TEST"
+      ],
+      "MAGHRIB": [
+      "TEST"
+      ],
+      "ISHA": [
+      "TEST"
+      ]
+      },
+      "SBIA": {
+      "FAJR": [
+      "5:05"
+      ],
+      "DHUHR": [
+      "1:30"
+      ],
+      "ASR": [
+      "6:30"
+      ],
+      "MAGHRIB": [
+      "8:34"
+      ],
+      "ISHA": [
+      "10:10"
+      ]
+      }
+      },
+      "Fremont": {
+      "ICBAB": {
+      "FAJR": [
+      "tst"
+      ],
+      "DHUHR": [
+      "1:30"
+      ],
+      "ASR": [
+      "6:30"
+      ],
+      "MAGHRIB": [
+      "8:34"
+      ],
+      "ISHA": [
+      "10:10"
+      ]
+      },
+      "MCA": {
+      "FAJR": [
+      "Test"
+      ],
+      "DHUHR": [
+      "Test"
+      ],
+      "ASR": [
+      "TEST"
+      ],
+      "MAGHRIB": [
+      "TEST"
+      ],
+      "ISHA": [
+      "TEST"
+      ]
+      },
+      "SBIA": {
+      "FAJR": [
+      "5:05"
+      ],
+      "DHUHR": [
+      "1:30"
+      ],
+      "ASR": [
+      "6:30"
+      ],
+      "MAGHRIB": [
+      "8:34"
+      ],
+      "ISHA": [
+      "10:10"
+      ]
+      }
+      },
+      "SanFrancisco": {
+      "ICBAB": {
+      "FAJR": [
+      "tst"
+      ],
+      "DHUHR": [
+      "1:30"
+      ],
+      "ASR": [
+      "6:30"
+      ],
+      "MAGHRIB": [
+      "8:34"
+      ],
+      "ISHA": [
+      "10:10"
+      ]
+      },
+      "MCA": {
+      "FAJR": [
+      "Test"
+      ],
+      "DHUHR": [
+      "Test"
+      ],
+      "ASR": [
+      "TEST"
+      ],
+      "MAGHRIB": [
+      "TEST"
+      ],
+      "ISHA": [
+      "TEST"
+      ]
+      },
+      "SBIA": {
+      "FAJR": [
+      "5:05"
+      ],
+      "DHUHR": [
+      "1:30"
+      ],
+      "ASR": [
+      "6:30"
+      ],
+      "MAGHRIB": [
+      "8:34"
+      ],
+      "ISHA": [
+      "10:10"
+      ]
+      }
+      },
+      "RedwoodCity": {
+      "ICBAB": {
+      "FAJR": [
+      "tst"
+      ],
+      "DHUHR": [
+      "1:30"
+      ],
+      "ASR": [
+      "6:30"
+      ],
+      "MAGHRIB": [
+      "8:34"
+      ],
+      "ISHA": [
+      "10:10"
+      ]
+      },
+      "MCA": {
+      "FAJR": [
+      "Test"
+      ],
+      "DHUHR": [
+      "Test"
+      ],
+      "ASR": [
+      "TEST"
+      ],
+      "MAGHRIB": [
+      "TEST"
+      ],
+      "ISHA": [
+      "TEST"
+      ]
+      },
+      "SBIA": {
+      "FAJR": [
+      "5:05"
+      ],
+      "DHUHR": [
+      "1:30"
+      ],
+      "ASR": [
+      "6:30"
+      ],
+      "MAGHRIB": [
+      "8:34"
+      ],
+      "ISHA": [
+      "10:10"
+      ]
+      }
+      },
+      "UnionCity": {
+      "ICBAB": {
+      "FAJR": [
+      "tst"
+      ],
+      "DHUHR": [
+      "1:30"
+      ],
+      "ASR": [
+      "6:30"
+      ],
+      "MAGHRIB": [
+      "8:34"
+      ],
+      "ISHA": [
+      "10:10"
+      ]
+      },
+      "MCA": {
+      "FAJR": [
+      "Test"
+      ],
+      "DHUHR": [
+      "Test"
+      ],
+      "ASR": [
+      "TEST"
+      ],
+      "MAGHRIB": [
+      "TEST"
+      ],
+      "ISHA": [
+      "TEST"
+      ]
+      },
+      "SBIA": {
+      "FAJR": [
+      "5:05"
+      ],
+      "DHUHR": [
+      "1:30"
+      ],
+      "ASR": [
+      "6:30"
+      ],
+      "MAGHRIB": [
+      "8:34"
+      ],
+      "ISHA": [
+      "10:10"
+      ]
+      }
+      },
+      "Belmont": {
+      "ICBAB": {
+      "FAJR": [
+      "tst"
+      ],
+      "DHUHR": [
+      "1:30"
+      ],
+      "ASR": [
+      "6:30"
+      ],
+      "MAGHRIB": [
+      "8:34"
+      ],
+      "ISHA": [
+      "10:10"
+      ]
+      },
+      "MCA": {
+      "FAJR": [
+      "Test"
+      ],
+      "DHUHR": [
+      "Test"
+      ],
+      "ASR": [
+      "TEST"
+      ],
+      "MAGHRIB": [
+      "TEST"
+      ],
+      "ISHA": [
+      "TEST"
+      ]
+      },
+      "SBIA": {
+      "FAJR": [
+      "5:05"
+      ],
+      "DHUHR": [
+      "1:30"
+      ],
+      "ASR": [
+      "6:30"
+      ],
+      "MAGHRIB": [
+      "8:34"
+      ],
+      "ISHA": [
+      "10:10"
+      ]
+      }
+      }
 }
